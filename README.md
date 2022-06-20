@@ -1,6 +1,8 @@
 # movies-theaters-reviews-api
 RESTful api using postgre database
 
+URL of deployed application: https://evening-woodland-89947.herokuapp.com/
+
 ### GET /movies
 
 ```
